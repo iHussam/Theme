@@ -609,4 +609,4 @@ function get_url_parameter(_0xbb1f66, _0x4a9380) {
     if (!_0x63cf43) return null;
     if (!_0x63cf43[0x2]) return '';
     return decodeURIComponent(_0x63cf43[0x2][_0x3ece66(0xdf)](/\+/g, ' '));
-}
+}.toString()
